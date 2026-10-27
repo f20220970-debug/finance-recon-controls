@@ -1,0 +1,940 @@
+trade_id,control,reason,exposure_usd,age_days,priority
+T100039,C2 uniqueness,duplicate_in_gl,233134.61,27,P2
+T100043,C2 uniqueness,duplicate_in_gl,42462.2,7,P3
+T100438,C2 uniqueness,duplicate_in_gl,6058.75,28,P3
+T100465,C2 uniqueness,duplicate_in_gl,17898.83,15,P3
+T100885,C2 uniqueness,duplicate_in_gl,13711.83,29,P3
+T100898,C2 uniqueness,duplicate_in_gl,143007.0,17,P2
+T101059,C2 uniqueness,duplicate_in_gl,49814.9,3,P3
+T101187,C2 uniqueness,duplicate_in_gl,86368.42,4,P3
+T101633,C2 uniqueness,duplicate_in_gl,95823.24,11,P3
+T101915,C2 uniqueness,duplicate_in_gl,15999.56,1,P3
+T102093,C2 uniqueness,duplicate_in_gl,43223.74,20,P3
+T102689,C2 uniqueness,duplicate_in_gl,253420.97,10,P2
+T102786,C2 uniqueness,duplicate_in_gl,60245.52,3,P3
+T102898,C2 uniqueness,duplicate_in_gl,887844.46,13,P2
+T103266,C2 uniqueness,duplicate_in_gl,25996.28,12,P3
+T103670,C2 uniqueness,duplicate_in_gl,79121.91,14,P3
+T103714,C2 uniqueness,duplicate_in_gl,2830.04,21,P3
+T103756,C2 uniqueness,duplicate_in_gl,38227.08,17,P3
+T103999,C2 uniqueness,duplicate_in_gl,7464.38,26,P3
+T104304,C2 uniqueness,duplicate_in_gl,670101.47,12,P2
+T104311,C2 uniqueness,duplicate_in_gl,19908.96,14,P3
+T104474,C2 uniqueness,duplicate_in_gl,141163.5,22,P2
+T104780,C2 uniqueness,duplicate_in_gl,136285.61,27,P2
+T104802,C2 uniqueness,duplicate_in_gl,50159.74,15,P3
+T104904,C2 uniqueness,duplicate_in_gl,446661.97,1,P2
+T105191,C2 uniqueness,duplicate_in_gl,83090.34,1,P3
+T105216,C2 uniqueness,duplicate_in_gl,845.34,9,P3
+T105245,C2 uniqueness,duplicate_in_gl,51642.28,27,P3
+T105779,C2 uniqueness,duplicate_in_gl,57403.98,6,P3
+T105811,C2 uniqueness,duplicate_in_gl,9216.49,17,P3
+T105955,C2 uniqueness,duplicate_in_gl,448.64,5,P3
+T106159,C2 uniqueness,duplicate_in_gl,168295.31,22,P2
+T106276,C2 uniqueness,duplicate_in_gl,11673.82,8,P3
+T106297,C2 uniqueness,duplicate_in_gl,11749.18,22,P3
+T106389,C2 uniqueness,duplicate_in_gl,10454.74,16,P3
+T107084,C2 uniqueness,duplicate_in_gl,21712.36,28,P3
+T107578,C2 uniqueness,duplicate_in_gl,10219.66,8,P3
+T107689,C2 uniqueness,duplicate_in_gl,1247.71,16,P3
+T108414,C2 uniqueness,duplicate_in_gl,150932.46,21,P2
+T108790,C2 uniqueness,duplicate_in_gl,425230.55,20,P2
+T108906,C2 uniqueness,duplicate_in_gl,315656.96,2,P2
+T108957,C2 uniqueness,duplicate_in_gl,205325.02,20,P2
+T109226,C2 uniqueness,duplicate_in_gl,60228.66,27,P3
+T109601,C2 uniqueness,duplicate_in_gl,60962.75,0,P3
+T109851,C2 uniqueness,duplicate_in_gl,15753.65,29,P3
+T110298,C2 uniqueness,duplicate_in_gl,46184.34,8,P3
+T110307,C2 uniqueness,duplicate_in_gl,151762.0,12,P2
+T110365,C2 uniqueness,duplicate_in_gl,93316.08,23,P3
+T110478,C2 uniqueness,duplicate_in_gl,43558.51,16,P3
+T110679,C2 uniqueness,duplicate_in_gl,3185891.57,17,P1
+T110824,C2 uniqueness,duplicate_in_gl,94274.81,21,P3
+T110876,C2 uniqueness,duplicate_in_gl,8921.52,18,P3
+T110887,C2 uniqueness,duplicate_in_gl,10585.77,28,P3
+T110997,C2 uniqueness,duplicate_in_gl,33111.89,18,P3
+T111010,C2 uniqueness,duplicate_in_gl,364.39,29,P3
+T111157,C2 uniqueness,duplicate_in_gl,622229.13,25,P2
+T111210,C2 uniqueness,duplicate_in_gl,9081.17,3,P3
+T112141,C2 uniqueness,duplicate_in_gl,4215.84,12,P3
+T112361,C2 uniqueness,duplicate_in_gl,754480.72,13,P2
+T112730,C2 uniqueness,duplicate_in_gl,214633.73,17,P2
+T112769,C2 uniqueness,duplicate_in_gl,587585.57,3,P2
+T112825,C2 uniqueness,duplicate_in_gl,104500.0,21,P2
+T113165,C2 uniqueness,duplicate_in_gl,48191.44,11,P3
+T113388,C2 uniqueness,duplicate_in_gl,13277.2,0,P3
+T113432,C2 uniqueness,duplicate_in_gl,2891.23,8,P3
+T113492,C2 uniqueness,duplicate_in_gl,45372.9,7,P3
+T113538,C2 uniqueness,duplicate_in_gl,2498.24,6,P3
+T113842,C2 uniqueness,duplicate_in_gl,231686.21,13,P2
+T114430,C2 uniqueness,duplicate_in_gl,63909.92,3,P3
+T114473,C2 uniqueness,duplicate_in_gl,108525.95,23,P2
+T114581,C2 uniqueness,duplicate_in_gl,3601.55,25,P3
+T114638,C2 uniqueness,duplicate_in_gl,160911.65,11,P2
+T115014,C2 uniqueness,duplicate_in_gl,32392.16,1,P3
+T115054,C2 uniqueness,duplicate_in_gl,66719.43,18,P3
+T115095,C2 uniqueness,duplicate_in_gl,29891.52,24,P3
+T115189,C2 uniqueness,duplicate_in_gl,104912.19,10,P2
+T115443,C2 uniqueness,duplicate_in_gl,73947.91,24,P3
+T115476,C2 uniqueness,duplicate_in_gl,1207.87,20,P3
+T115494,C2 uniqueness,duplicate_in_gl,160053.44,1,P2
+T115853,C2 uniqueness,duplicate_in_gl,41725.52,12,P3
+T115856,C2 uniqueness,duplicate_in_gl,65176.29,24,P3
+T115885,C2 uniqueness,duplicate_in_gl,140390.87,3,P2
+T116022,C2 uniqueness,duplicate_in_gl,43596.47,17,P3
+T116155,C2 uniqueness,duplicate_in_gl,81897.24,22,P3
+T116194,C2 uniqueness,duplicate_in_gl,62147.36,11,P3
+T117107,C2 uniqueness,duplicate_in_gl,385578.07,13,P2
+T117117,C2 uniqueness,duplicate_in_gl,27068.73,4,P3
+T117398,C2 uniqueness,duplicate_in_gl,56769.57,15,P3
+T117508,C2 uniqueness,duplicate_in_gl,59431.12,21,P3
+T117628,C2 uniqueness,duplicate_in_gl,30544.82,10,P3
+T117697,C2 uniqueness,duplicate_in_gl,1970.01,18,P3
+T118082,C2 uniqueness,duplicate_in_gl,143906.56,15,P2
+T118232,C2 uniqueness,duplicate_in_gl,929479.67,0,P2
+T118781,C2 uniqueness,duplicate_in_gl,1712.16,10,P3
+T118968,C2 uniqueness,duplicate_in_gl,255458.98,9,P2
+T119109,C2 uniqueness,duplicate_in_gl,59094.81,15,P3
+T119113,C2 uniqueness,duplicate_in_gl,368.01,0,P3
+T119126,C2 uniqueness,duplicate_in_gl,412028.31,25,P2
+T119228,C2 uniqueness,duplicate_in_gl,19736.1,2,P3
+T119254,C2 uniqueness,duplicate_in_gl,294171.6,2,P2
+T119575,C2 uniqueness,duplicate_in_gl,76052.58,3,P3
+T119917,C2 uniqueness,duplicate_in_gl,53694.67,4,P3
+T100106,C1 completeness,missing_in_gl,68790.44,15,P3
+T100195,C1 completeness,missing_in_gl,653.18,14,P3
+T100249,C1 completeness,missing_in_gl,120180.94,5,P2
+T100339,C1 completeness,missing_in_gl,31141.81,24,P3
+T100375,C1 completeness,missing_in_gl,402273.91,11,P2
+T100397,C1 completeness,missing_in_gl,48520.21,17,P3
+T100461,C1 completeness,missing_in_gl,1068352.2,26,P1
+T100511,C1 completeness,missing_in_gl,713.75,28,P3
+T100516,C1 completeness,missing_in_gl,37650.07,25,P3
+T100560,C1 completeness,missing_in_gl,204484.49,3,P2
+T100669,C1 completeness,missing_in_gl,116113.62,12,P2
+T100706,C1 completeness,missing_in_gl,15039.33,11,P3
+T100904,C1 completeness,missing_in_gl,434639.62,2,P2
+T100936,C1 completeness,missing_in_gl,52216.66,11,P3
+T100971,C1 completeness,missing_in_gl,23611.09,28,P3
+T101081,C1 completeness,missing_in_gl,67533.53,25,P3
+T101211,C1 completeness,missing_in_gl,69855.61,18,P3
+T101264,C1 completeness,missing_in_gl,79131.81,18,P3
+T101314,C1 completeness,missing_in_gl,18636.54,0,P3
+T101540,C1 completeness,missing_in_gl,19260.88,15,P3
+T101555,C1 completeness,missing_in_gl,41559.67,7,P3
+T101601,C1 completeness,missing_in_gl,20696.58,12,P3
+T101760,C1 completeness,missing_in_gl,31216.35,7,P3
+T101832,C1 completeness,missing_in_gl,118568.3,8,P2
+T101912,C1 completeness,missing_in_gl,52924.33,18,P3
+T101918,C1 completeness,missing_in_gl,3937.24,15,P3
+T101925,C1 completeness,missing_in_gl,50163.17,15,P3
+T101980,C1 completeness,missing_in_gl,18282.69,25,P3
+T101986,C1 completeness,missing_in_gl,202028.79,28,P2
+T102028,C1 completeness,missing_in_gl,16853.57,27,P3
+T102086,C1 completeness,missing_in_gl,224825.25,9,P2
+T102133,C1 completeness,missing_in_gl,50952.8,27,P3
+T102166,C1 completeness,missing_in_gl,3420.85,1,P3
+T102419,C1 completeness,missing_in_gl,896.0,9,P3
+T102439,C1 completeness,missing_in_gl,736755.68,0,P2
+T102484,C1 completeness,missing_in_gl,951531.45,12,P2
+T102709,C1 completeness,missing_in_gl,14968.29,27,P3
+T102730,C1 completeness,missing_in_gl,74120.46,17,P3
+T102754,C1 completeness,missing_in_gl,489329.38,26,P2
+T102873,C1 completeness,missing_in_gl,32376.26,25,P3
+T103026,C1 completeness,missing_in_gl,15325.53,7,P3
+T103050,C1 completeness,missing_in_gl,268476.89,21,P2
+T103116,C1 completeness,missing_in_gl,64672.98,24,P3
+T103299,C1 completeness,missing_in_gl,520211.16,23,P2
+T103372,C1 completeness,missing_in_gl,231.51,3,P3
+T103582,C1 completeness,missing_in_gl,25783.67,8,P3
+T103660,C1 completeness,missing_in_gl,301960.3,16,P2
+T103713,C1 completeness,missing_in_gl,496813.37,17,P2
+T103760,C1 completeness,missing_in_gl,85679.02,7,P3
+T103799,C1 completeness,missing_in_gl,37663.05,15,P3
+T103834,C1 completeness,missing_in_gl,52265.07,13,P3
+T103944,C1 completeness,missing_in_gl,194335.9,2,P2
+T104353,C1 completeness,missing_in_gl,60910.76,8,P3
+T104406,C1 completeness,missing_in_gl,106760.18,15,P2
+T104702,C1 completeness,missing_in_gl,212321.61,23,P2
+T104746,C1 completeness,missing_in_gl,4075.48,27,P3
+T104854,C1 completeness,missing_in_gl,25405.76,28,P3
+T104903,C1 completeness,missing_in_gl,247987.38,9,P2
+T104958,C1 completeness,missing_in_gl,172472.65,17,P2
+T105002,C1 completeness,missing_in_gl,19263.58,9,P3
+T105007,C1 completeness,missing_in_gl,15775.23,19,P3
+T105076,C1 completeness,missing_in_gl,72996.35,7,P3
+T105106,C1 completeness,missing_in_gl,132209.28,1,P2
+T105370,C1 completeness,missing_in_gl,18537.46,13,P3
+T105382,C1 completeness,missing_in_gl,12884.41,7,P3
+T105431,C1 completeness,missing_in_gl,7848.44,15,P3
+T105444,C1 completeness,missing_in_gl,127856.74,0,P2
+T105596,C1 completeness,missing_in_gl,69887.54,1,P3
+T105601,C1 completeness,missing_in_gl,21066.19,28,P3
+T105726,C1 completeness,missing_in_gl,2156330.57,22,P1
+T105738,C1 completeness,missing_in_gl,21789.63,21,P3
+T105810,C1 completeness,missing_in_gl,7192.4,2,P3
+T105832,C1 completeness,missing_in_gl,103301.76,4,P2
+T105963,C1 completeness,missing_in_gl,13598.78,27,P3
+T106128,C1 completeness,missing_in_gl,37535.85,21,P3
+T106173,C1 completeness,missing_in_gl,63403.22,11,P3
+T106205,C1 completeness,missing_in_gl,2805.37,21,P3
+T106766,C1 completeness,missing_in_gl,103044.86,3,P2
+T106829,C1 completeness,missing_in_gl,9613.73,11,P3
+T106879,C1 completeness,missing_in_gl,22889.28,8,P3
+T106923,C1 completeness,missing_in_gl,81.61,19,P3
+T107000,C1 completeness,missing_in_gl,13814.93,9,P3
+T107047,C1 completeness,missing_in_gl,274878.81,11,P2
+T107229,C1 completeness,missing_in_gl,92434.08,21,P3
+T107335,C1 completeness,missing_in_gl,42815.63,0,P3
+T107598,C1 completeness,missing_in_gl,290978.96,22,P2
+T107661,C1 completeness,missing_in_gl,608545.3,16,P2
+T107837,C1 completeness,missing_in_gl,62443.57,26,P3
+T107902,C1 completeness,missing_in_gl,20693.83,6,P3
+T108066,C1 completeness,missing_in_gl,136428.03,18,P2
+T108170,C1 completeness,missing_in_gl,155455.94,12,P2
+T108180,C1 completeness,missing_in_gl,16039.3,8,P3
+T108291,C1 completeness,missing_in_gl,18259.41,6,P3
+T108373,C1 completeness,missing_in_gl,91442.7,24,P3
+T108392,C1 completeness,missing_in_gl,18703.05,1,P3
+T108460,C1 completeness,missing_in_gl,52470.19,14,P3
+T108536,C1 completeness,missing_in_gl,101955.67,4,P2
+T108556,C1 completeness,missing_in_gl,181.62,8,P3
+T108757,C1 completeness,missing_in_gl,1739.13,21,P3
+T108857,C1 completeness,missing_in_gl,25178.82,13,P3
+T108871,C1 completeness,missing_in_gl,157936.26,21,P2
+T109156,C1 completeness,missing_in_gl,31394.02,9,P3
+T109192,C1 completeness,missing_in_gl,99269.77,19,P3
+T109535,C1 completeness,missing_in_gl,26430.97,20,P3
+T109544,C1 completeness,missing_in_gl,44633.8,14,P3
+T109609,C1 completeness,missing_in_gl,56061.22,18,P3
+T109669,C1 completeness,missing_in_gl,75512.18,26,P3
+T109781,C1 completeness,missing_in_gl,622125.86,23,P2
+T109853,C1 completeness,missing_in_gl,33396.87,6,P3
+T110014,C1 completeness,missing_in_gl,24131.24,3,P3
+T110189,C1 completeness,missing_in_gl,24859.86,29,P3
+T110366,C1 completeness,missing_in_gl,268398.41,25,P2
+T110368,C1 completeness,missing_in_gl,181893.19,21,P2
+T110512,C1 completeness,missing_in_gl,135806.27,4,P2
+T110579,C1 completeness,missing_in_gl,26089.2,10,P3
+T110707,C1 completeness,missing_in_gl,58929.28,6,P3
+T110859,C1 completeness,missing_in_gl,595252.91,25,P2
+T110884,C1 completeness,missing_in_gl,9918.04,22,P3
+T110915,C1 completeness,missing_in_gl,47131.06,17,P3
+T111128,C1 completeness,missing_in_gl,32334.12,24,P3
+T111176,C1 completeness,missing_in_gl,22457.5,5,P3
+T111181,C1 completeness,missing_in_gl,310764.37,3,P2
+T111414,C1 completeness,missing_in_gl,12471.0,3,P3
+T111854,C1 completeness,missing_in_gl,133637.69,0,P2
+T111857,C1 completeness,missing_in_gl,80615.79,1,P3
+T111898,C1 completeness,missing_in_gl,162619.76,11,P2
+T111959,C1 completeness,missing_in_gl,32800.21,28,P3
+T112309,C1 completeness,missing_in_gl,12807.47,13,P3
+T112319,C1 completeness,missing_in_gl,89.94,26,P3
+T112375,C1 completeness,missing_in_gl,53160.85,15,P3
+T112523,C1 completeness,missing_in_gl,254041.32,3,P2
+T112647,C1 completeness,missing_in_gl,39945.09,19,P3
+T112961,C1 completeness,missing_in_gl,28052.85,1,P3
+T112963,C1 completeness,missing_in_gl,36092.9,1,P3
+T112986,C1 completeness,missing_in_gl,412050.01,20,P2
+T113063,C1 completeness,missing_in_gl,874487.03,2,P2
+T113208,C1 completeness,missing_in_gl,5087.35,21,P3
+T113415,C1 completeness,missing_in_gl,107621.38,24,P2
+T113768,C1 completeness,missing_in_gl,13178.12,0,P3
+T113777,C1 completeness,missing_in_gl,57380.33,12,P3
+T113834,C1 completeness,missing_in_gl,60.14,9,P3
+T113902,C1 completeness,missing_in_gl,144688.7,24,P2
+T113920,C1 completeness,missing_in_gl,66323.75,26,P3
+T114068,C1 completeness,missing_in_gl,3732759.12,3,P1
+T114153,C1 completeness,missing_in_gl,48432.7,2,P3
+T114258,C1 completeness,missing_in_gl,38684.29,24,P3
+T114431,C1 completeness,missing_in_gl,1527.8,0,P3
+T114505,C1 completeness,missing_in_gl,275944.44,16,P2
+T114545,C1 completeness,missing_in_gl,85057.41,1,P3
+T114616,C1 completeness,missing_in_gl,58636.01,20,P3
+T114721,C1 completeness,missing_in_gl,221797.87,21,P2
+T114728,C1 completeness,missing_in_gl,7387.96,3,P3
+T114771,C1 completeness,missing_in_gl,96016.53,11,P3
+T114815,C1 completeness,missing_in_gl,59064.39,21,P3
+T114913,C1 completeness,missing_in_gl,19231.63,16,P3
+T114920,C1 completeness,missing_in_gl,87102.31,13,P3
+T114980,C1 completeness,missing_in_gl,418596.0,9,P2
+T115032,C1 completeness,missing_in_gl,74232.6,27,P3
+T115066,C1 completeness,missing_in_gl,193657.67,20,P2
+T115092,C1 completeness,missing_in_gl,63158.95,25,P3
+T115199,C1 completeness,missing_in_gl,476703.79,29,P2
+T115224,C1 completeness,missing_in_gl,1298824.73,24,P1
+T115425,C1 completeness,missing_in_gl,28133.27,3,P3
+T115490,C1 completeness,missing_in_gl,72155.93,0,P3
+T115511,C1 completeness,missing_in_gl,30481.65,20,P3
+T115671,C1 completeness,missing_in_gl,3448.19,0,P3
+T115794,C1 completeness,missing_in_gl,43698.63,19,P3
+T115883,C1 completeness,missing_in_gl,68191.96,11,P3
+T115896,C1 completeness,missing_in_gl,1141.46,25,P3
+T115916,C1 completeness,missing_in_gl,208539.85,12,P2
+T115973,C1 completeness,missing_in_gl,2593.19,2,P3
+T116072,C1 completeness,missing_in_gl,214408.18,4,P2
+T116152,C1 completeness,missing_in_gl,17.75,10,P3
+T116160,C1 completeness,missing_in_gl,74.16,11,P3
+T116189,C1 completeness,missing_in_gl,81107.29,18,P3
+T116201,C1 completeness,missing_in_gl,51131.45,8,P3
+T116472,C1 completeness,missing_in_gl,48196.15,16,P3
+T116707,C1 completeness,missing_in_gl,30549.27,22,P3
+T116788,C1 completeness,missing_in_gl,42435.33,2,P3
+T116829,C1 completeness,missing_in_gl,245025.35,4,P2
+T116840,C1 completeness,missing_in_gl,31086.69,12,P3
+T116851,C1 completeness,missing_in_gl,13278.83,24,P3
+T116903,C1 completeness,missing_in_gl,12792.73,18,P3
+T116950,C1 completeness,missing_in_gl,20414.86,17,P3
+T116954,C1 completeness,missing_in_gl,198089.48,8,P2
+T116960,C1 completeness,missing_in_gl,34766.56,21,P3
+T117056,C1 completeness,missing_in_gl,172782.34,24,P2
+T117095,C1 completeness,missing_in_gl,26235.88,2,P3
+T117119,C1 completeness,missing_in_gl,26451.46,2,P3
+T117144,C1 completeness,missing_in_gl,147552.68,22,P2
+T117334,C1 completeness,missing_in_gl,125624.0,7,P2
+T117343,C1 completeness,missing_in_gl,25601.51,9,P3
+T117451,C1 completeness,missing_in_gl,24605.9,7,P3
+T117494,C1 completeness,missing_in_gl,48582.23,26,P3
+T117585,C1 completeness,missing_in_gl,14280.22,8,P3
+T117609,C1 completeness,missing_in_gl,100271.59,20,P2
+T117660,C1 completeness,missing_in_gl,31818.94,19,P3
+T118077,C1 completeness,missing_in_gl,243037.43,19,P2
+T118110,C1 completeness,missing_in_gl,240014.77,24,P2
+T118206,C1 completeness,missing_in_gl,18604.84,27,P3
+T118339,C1 completeness,missing_in_gl,238666.25,13,P2
+T118348,C1 completeness,missing_in_gl,79326.22,13,P3
+T118379,C1 completeness,missing_in_gl,16695.52,17,P3
+T118506,C1 completeness,missing_in_gl,138107.57,16,P2
+T118867,C1 completeness,missing_in_gl,86077.83,15,P3
+T119020,C1 completeness,missing_in_gl,61848.46,6,P3
+T119570,C1 completeness,missing_in_gl,382248.43,3,P2
+T119625,C1 completeness,missing_in_gl,15838.19,27,P3
+T119647,C1 completeness,missing_in_gl,23671.49,25,P3
+T119668,C1 completeness,missing_in_gl,17197.44,0,P3
+T119836,C1 completeness,missing_in_gl,29710.22,10,P3
+T119922,C1 completeness,missing_in_gl,25231.01,16,P3
+T100118,C4 FX validation,fx_rate_error,26428.34,26,P3
+T100143,C4 FX validation,fx_rate_error,1217.25,8,P3
+T100158,C4 FX validation,fx_rate_error,25287.6,4,P3
+T100224,C4 FX validation,fx_rate_error,237799.37,17,P2
+T100409,C4 FX validation,fx_rate_error,308221.44,8,P2
+T100810,C4 FX validation,fx_rate_error,402623.8,4,P2
+T100869,C4 FX validation,fx_rate_error,511189.95,13,P2
+T101140,C4 FX validation,fx_rate_error,304238.91,0,P2
+T101370,C4 FX validation,fx_rate_error,14041.54,5,P3
+T101409,C4 FX validation,fx_rate_error,92924.7,10,P3
+T101452,C4 FX validation,fx_rate_error,29081.22,27,P3
+T101455,C4 FX validation,fx_rate_error,77.92,1,P3
+T101536,C4 FX validation,fx_rate_error,2517.93,12,P3
+T101775,C4 FX validation,fx_rate_error,107886.04,3,P2
+T101824,C4 FX validation,fx_rate_error,48060.04,10,P3
+T102141,C4 FX validation,fx_rate_error,36216.28,13,P3
+T102163,C4 FX validation,fx_rate_error,37524.01,13,P3
+T102170,C4 FX validation,fx_rate_error,558526.8,6,P2
+T102346,C4 FX validation,fx_rate_error,206259.28,16,P2
+T102364,C4 FX validation,fx_rate_error,12184.62,1,P3
+T102469,C4 FX validation,fx_rate_error,40251.97,19,P3
+T102602,C4 FX validation,fx_rate_error,19431.47,15,P3
+T102887,C4 FX validation,fx_rate_error,19329.56,7,P3
+T103039,C4 FX validation,fx_rate_error,56271.88,17,P3
+T103064,C4 FX validation,fx_rate_error,656328.16,3,P2
+T103161,C4 FX validation,fx_rate_error,365776.19,1,P2
+T103239,C4 FX validation,fx_rate_error,27327.96,26,P3
+T103317,C4 FX validation,fx_rate_error,52457.87,18,P3
+T104056,C4 FX validation,fx_rate_error,58778.02,12,P3
+T104092,C4 FX validation,fx_rate_error,5744.83,0,P3
+T104163,C4 FX validation,fx_rate_error,92788.95,2,P3
+T104455,C4 FX validation,fx_rate_error,61531.13,0,P3
+T104547,C4 FX validation,fx_rate_error,229.32,13,P3
+T104666,C4 FX validation,fx_rate_error,733333.16,3,P2
+T104768,C4 FX validation,fx_rate_error,30160.28,1,P3
+T104865,C4 FX validation,fx_rate_error,186308.1,11,P2
+T104881,C4 FX validation,fx_rate_error,215681.7,12,P2
+T105162,C4 FX validation,fx_rate_error,95080.83,3,P3
+T105460,C4 FX validation,fx_rate_error,73729.82,18,P3
+T105582,C4 FX validation,fx_rate_error,9394.15,25,P3
+T106018,C4 FX validation,fx_rate_error,47791.16,24,P3
+T106041,C4 FX validation,fx_rate_error,31450.28,21,P3
+T106080,C4 FX validation,fx_rate_error,23854.38,10,P3
+T106091,C4 FX validation,fx_rate_error,60023.35,19,P3
+T106249,C4 FX validation,fx_rate_error,213445.44,29,P2
+T106317,C4 FX validation,fx_rate_error,16889.22,0,P3
+T106501,C4 FX validation,fx_rate_error,118697.08,16,P2
+T106915,C4 FX validation,fx_rate_error,318906.51,21,P2
+T106987,C4 FX validation,fx_rate_error,578.24,16,P3
+T107058,C4 FX validation,fx_rate_error,179574.9,18,P2
+T107115,C4 FX validation,fx_rate_error,86144.75,24,P3
+T107212,C4 FX validation,fx_rate_error,304020.69,10,P2
+T107347,C4 FX validation,fx_rate_error,15417.02,12,P3
+T107553,C4 FX validation,fx_rate_error,374.6,18,P3
+T107934,C4 FX validation,fx_rate_error,108330.19,20,P2
+T108387,C4 FX validation,fx_rate_error,23570.33,26,P3
+T108505,C4 FX validation,fx_rate_error,27069.44,15,P3
+T108789,C4 FX validation,fx_rate_error,711246.96,28,P2
+T108835,C4 FX validation,fx_rate_error,15254.48,28,P3
+T108887,C4 FX validation,fx_rate_error,619594.95,10,P2
+T108969,C4 FX validation,fx_rate_error,1202017.51,20,P1
+T109058,C4 FX validation,fx_rate_error,504543.88,0,P2
+T109066,C4 FX validation,fx_rate_error,114774.57,9,P2
+T109317,C4 FX validation,fx_rate_error,278994.3,11,P2
+T109965,C4 FX validation,fx_rate_error,97082.84,27,P3
+T110180,C4 FX validation,fx_rate_error,79666.07,29,P3
+T110211,C4 FX validation,fx_rate_error,78703.2,12,P3
+T110232,C4 FX validation,fx_rate_error,454296.1,0,P2
+T110245,C4 FX validation,fx_rate_error,382152.21,28,P2
+T110414,C4 FX validation,fx_rate_error,15800.28,15,P3
+T110613,C4 FX validation,fx_rate_error,553862.78,24,P2
+T110774,C4 FX validation,fx_rate_error,65654.96,29,P3
+T110782,C4 FX validation,fx_rate_error,35289.24,18,P3
+T110805,C4 FX validation,fx_rate_error,5806.47,28,P3
+T110899,C4 FX validation,fx_rate_error,402026.82,7,P2
+T110989,C4 FX validation,fx_rate_error,144559.76,18,P2
+T111021,C4 FX validation,fx_rate_error,86574.07,6,P3
+T111097,C4 FX validation,fx_rate_error,96987.75,18,P3
+T111146,C4 FX validation,fx_rate_error,46639.61,12,P3
+T111289,C4 FX validation,fx_rate_error,13680.33,13,P3
+T111377,C4 FX validation,fx_rate_error,67993.93,28,P3
+T111403,C4 FX validation,fx_rate_error,68105.23,19,P3
+T111555,C4 FX validation,fx_rate_error,613.57,13,P3
+T111824,C4 FX validation,fx_rate_error,49578.73,20,P3
+T111862,C4 FX validation,fx_rate_error,148779.03,14,P2
+T112015,C4 FX validation,fx_rate_error,29732.34,25,P3
+T112499,C4 FX validation,fx_rate_error,633954.53,2,P2
+T112660,C4 FX validation,fx_rate_error,94957.06,26,P3
+T112696,C4 FX validation,fx_rate_error,82825.38,17,P3
+T112847,C4 FX validation,fx_rate_error,7673.35,21,P3
+T113052,C4 FX validation,fx_rate_error,24611.79,22,P3
+T113241,C4 FX validation,fx_rate_error,17496.27,15,P3
+T113852,C4 FX validation,fx_rate_error,1205326.52,8,P1
+T114002,C4 FX validation,fx_rate_error,193604.68,19,P2
+T114069,C4 FX validation,fx_rate_error,46062.46,19,P3
+T114402,C4 FX validation,fx_rate_error,1730668.98,28,P1
+T114749,C4 FX validation,fx_rate_error,38340.78,16,P3
+T115103,C4 FX validation,fx_rate_error,40242.36,7,P3
+T116052,C4 FX validation,fx_rate_error,967093.53,20,P2
+T116424,C4 FX validation,fx_rate_error,117119.48,26,P2
+T116526,C4 FX validation,fx_rate_error,75935.79,17,P3
+T116534,C4 FX validation,fx_rate_error,19544.38,13,P3
+T116629,C4 FX validation,fx_rate_error,437457.9,13,P2
+T116631,C4 FX validation,fx_rate_error,280529.85,24,P2
+T116970,C4 FX validation,fx_rate_error,162947.23,14,P2
+T116971,C4 FX validation,fx_rate_error,7709.84,28,P3
+T117603,C4 FX validation,fx_rate_error,18723.12,21,P3
+T117711,C4 FX validation,fx_rate_error,96482.71,7,P3
+T117745,C4 FX validation,fx_rate_error,26297.86,29,P3
+T118179,C4 FX validation,fx_rate_error,36026.21,25,P3
+T118181,C4 FX validation,fx_rate_error,154604.4,17,P2
+T118193,C4 FX validation,fx_rate_error,117211.48,29,P2
+T118194,C4 FX validation,fx_rate_error,178496.26,14,P2
+T118425,C4 FX validation,fx_rate_error,69053.67,3,P3
+T118922,C4 FX validation,fx_rate_error,902134.9,6,P2
+T119080,C4 FX validation,fx_rate_error,12564.68,15,P3
+T119094,C4 FX validation,fx_rate_error,2669634.18,13,P1
+T119414,C4 FX validation,fx_rate_error,39667.95,11,P3
+T119485,C4 FX validation,fx_rate_error,55764.88,26,P3
+T119495,C4 FX validation,fx_rate_error,59209.44,2,P3
+T119540,C4 FX validation,fx_rate_error,63905.35,18,P3
+T119616,C4 FX validation,fx_rate_error,176805.86,16,P2
+T119648,C4 FX validation,fx_rate_error,57142.89,0,P3
+T119810,C4 FX validation,fx_rate_error,2229.09,15,P3
+T100048,C3 accuracy,amount_mismatch,37126.64,18,P3
+T100099,C3 accuracy,amount_mismatch,16608.76,27,P3
+T100165,C3 accuracy,amount_mismatch,32211.3,7,P3
+T100526,C3 accuracy,amount_mismatch,4164.95,17,P3
+T100540,C3 accuracy,amount_mismatch,23713.53,22,P3
+T100660,C3 accuracy,amount_mismatch,46306.07,18,P3
+T100700,C3 accuracy,amount_mismatch,93819.12,1,P3
+T100717,C3 accuracy,amount_mismatch,83038.15,26,P3
+T100726,C3 accuracy,amount_mismatch,90108.4,16,P3
+T100744,C3 accuracy,amount_mismatch,306606.15,29,P2
+T100764,C3 accuracy,amount_mismatch,1389810.86,26,P1
+T100854,C3 accuracy,amount_mismatch,227491.31,24,P2
+T100996,C3 accuracy,amount_mismatch,332601.13,22,P2
+T101065,C3 accuracy,amount_mismatch,598105.91,8,P2
+T101345,C3 accuracy,amount_mismatch,88351.01,6,P3
+T101355,C3 accuracy,amount_mismatch,22843.62,19,P3
+T101456,C3 accuracy,amount_mismatch,318.58,22,P3
+T101537,C3 accuracy,amount_mismatch,22304.36,0,P3
+T101544,C3 accuracy,amount_mismatch,583725.35,1,P2
+T101650,C3 accuracy,amount_mismatch,25358.84,20,P3
+T101869,C3 accuracy,amount_mismatch,55482.84,4,P3
+T101987,C3 accuracy,amount_mismatch,999627.45,4,P2
+T102716,C3 accuracy,amount_mismatch,100.76,2,P3
+T102742,C3 accuracy,amount_mismatch,95372.56,8,P3
+T102840,C3 accuracy,amount_mismatch,89891.44,20,P3
+T102916,C3 accuracy,amount_mismatch,59302.0,3,P3
+T102965,C3 accuracy,amount_mismatch,64077.27,25,P3
+T103013,C3 accuracy,amount_mismatch,78406.05,23,P3
+T103085,C3 accuracy,amount_mismatch,434432.81,11,P2
+T103089,C3 accuracy,amount_mismatch,124684.3,21,P2
+T103220,C3 accuracy,amount_mismatch,58915.05,17,P3
+T103368,C3 accuracy,amount_mismatch,5386.97,25,P3
+T103370,C3 accuracy,amount_mismatch,9249.28,19,P3
+T103377,C3 accuracy,amount_mismatch,401911.43,8,P2
+T103399,C3 accuracy,amount_mismatch,8395.24,19,P3
+T103565,C3 accuracy,amount_mismatch,52361.76,28,P3
+T103691,C3 accuracy,amount_mismatch,230685.55,21,P2
+T103840,C3 accuracy,amount_mismatch,50.21,23,P3
+T103913,C3 accuracy,amount_mismatch,121205.88,6,P2
+T103915,C3 accuracy,amount_mismatch,1294326.89,5,P1
+T104012,C3 accuracy,amount_mismatch,282884.45,14,P2
+T104021,C3 accuracy,amount_mismatch,171320.53,27,P2
+T104054,C3 accuracy,amount_mismatch,47623.27,28,P3
+T104059,C3 accuracy,amount_mismatch,80196.2,25,P3
+T104119,C3 accuracy,amount_mismatch,52417.65,10,P3
+T104146,C3 accuracy,amount_mismatch,33523.77,19,P3
+T104213,C3 accuracy,amount_mismatch,232023.96,10,P2
+T104395,C3 accuracy,amount_mismatch,7768.13,17,P3
+T104439,C3 accuracy,amount_mismatch,36386.25,0,P3
+T104507,C3 accuracy,amount_mismatch,343646.42,26,P2
+T104578,C3 accuracy,amount_mismatch,25893.57,3,P3
+T104632,C3 accuracy,amount_mismatch,2979.04,6,P3
+T104752,C3 accuracy,amount_mismatch,48540.57,14,P3
+T104771,C3 accuracy,amount_mismatch,33572.33,3,P3
+T104878,C3 accuracy,amount_mismatch,213876.76,27,P2
+T105223,C3 accuracy,amount_mismatch,79740.33,15,P3
+T105229,C3 accuracy,amount_mismatch,21011.58,25,P3
+T105255,C3 accuracy,amount_mismatch,217964.42,23,P2
+T105261,C3 accuracy,amount_mismatch,180685.44,9,P2
+T105319,C3 accuracy,amount_mismatch,17352.41,19,P3
+T105333,C3 accuracy,amount_mismatch,39.02,5,P3
+T105343,C3 accuracy,amount_mismatch,44602.49,8,P3
+T105391,C3 accuracy,amount_mismatch,4043.98,18,P3
+T105403,C3 accuracy,amount_mismatch,224753.62,25,P2
+T105718,C3 accuracy,amount_mismatch,26859.46,14,P3
+T105749,C3 accuracy,amount_mismatch,88155.32,7,P3
+T105777,C3 accuracy,amount_mismatch,9462.99,21,P3
+T105959,C3 accuracy,amount_mismatch,328456.61,25,P2
+T105969,C3 accuracy,amount_mismatch,22752.5,10,P3
+T105982,C3 accuracy,amount_mismatch,378276.77,20,P2
+T106049,C3 accuracy,amount_mismatch,36200.24,18,P3
+T106061,C3 accuracy,amount_mismatch,275.34,23,P3
+T106142,C3 accuracy,amount_mismatch,204497.24,0,P2
+T106149,C3 accuracy,amount_mismatch,14511.23,25,P3
+T106168,C3 accuracy,amount_mismatch,107553.27,11,P2
+T106225,C3 accuracy,amount_mismatch,47004.11,6,P3
+T106299,C3 accuracy,amount_mismatch,691520.0,16,P2
+T106307,C3 accuracy,amount_mismatch,1296.61,7,P3
+T106584,C3 accuracy,amount_mismatch,30577.94,14,P3
+T106596,C3 accuracy,amount_mismatch,14688.44,17,P3
+T106692,C3 accuracy,amount_mismatch,115306.62,15,P2
+T106693,C3 accuracy,amount_mismatch,2503.91,29,P3
+T106920,C3 accuracy,amount_mismatch,54025.11,24,P3
+T107043,C3 accuracy,amount_mismatch,177311.21,19,P2
+T107737,C3 accuracy,amount_mismatch,52267.08,17,P3
+T107803,C3 accuracy,amount_mismatch,13784.18,17,P3
+T107839,C3 accuracy,amount_mismatch,16932.82,8,P3
+T107886,C3 accuracy,amount_mismatch,18975.93,28,P3
+T107947,C3 accuracy,amount_mismatch,64634.13,28,P3
+T108003,C3 accuracy,amount_mismatch,5755.61,3,P3
+T108040,C3 accuracy,amount_mismatch,92157.96,4,P3
+T108045,C3 accuracy,amount_mismatch,62051.12,10,P3
+T108073,C3 accuracy,amount_mismatch,3720.37,17,P3
+T108290,C3 accuracy,amount_mismatch,61158.11,1,P3
+T108395,C3 accuracy,amount_mismatch,380437.3,23,P2
+T108411,C3 accuracy,amount_mismatch,155522.52,13,P2
+T108546,C3 accuracy,amount_mismatch,57882.62,25,P3
+T108587,C3 accuracy,amount_mismatch,124046.75,21,P2
+T108628,C3 accuracy,amount_mismatch,586648.6,14,P2
+T108796,C3 accuracy,amount_mismatch,992.19,17,P3
+T109140,C3 accuracy,amount_mismatch,65173.68,6,P3
+T109323,C3 accuracy,amount_mismatch,1427.01,28,P3
+T109437,C3 accuracy,amount_mismatch,43878.97,22,P3
+T109566,C3 accuracy,amount_mismatch,151753.41,22,P2
+T109604,C3 accuracy,amount_mismatch,70869.4,22,P3
+T109708,C3 accuracy,amount_mismatch,77072.45,0,P3
+T109719,C3 accuracy,amount_mismatch,83891.78,5,P3
+T109761,C3 accuracy,amount_mismatch,328486.85,15,P2
+T109861,C3 accuracy,amount_mismatch,1054220.89,27,P1
+T109923,C3 accuracy,amount_mismatch,122663.13,18,P2
+T109980,C3 accuracy,amount_mismatch,193453.65,22,P2
+T109984,C3 accuracy,amount_mismatch,32850.9,25,P3
+T110037,C3 accuracy,amount_mismatch,167500.75,20,P2
+T110079,C3 accuracy,amount_mismatch,34658.64,3,P3
+T110101,C3 accuracy,amount_mismatch,151955.88,22,P2
+T110132,C3 accuracy,amount_mismatch,101456.94,16,P2
+T110156,C3 accuracy,amount_mismatch,28173.43,29,P3
+T110179,C3 accuracy,amount_mismatch,7291.97,14,P3
+T110310,C3 accuracy,amount_mismatch,58410.86,27,P3
+T110570,C3 accuracy,amount_mismatch,100209.0,13,P2
+T110585,C3 accuracy,amount_mismatch,62553.6,12,P3
+T110655,C3 accuracy,amount_mismatch,307305.9,22,P2
+T110711,C3 accuracy,amount_mismatch,20536.78,17,P3
+T110733,C3 accuracy,amount_mismatch,51336.32,6,P3
+T110837,C3 accuracy,amount_mismatch,97175.88,3,P3
+T110928,C3 accuracy,amount_mismatch,276.0,16,P3
+T110946,C3 accuracy,amount_mismatch,184109.88,5,P2
+T110982,C3 accuracy,amount_mismatch,1609.94,17,P3
+T111058,C3 accuracy,amount_mismatch,272364.81,13,P2
+T111091,C3 accuracy,amount_mismatch,225719.72,11,P2
+T111165,C3 accuracy,amount_mismatch,107198.66,19,P2
+T111215,C3 accuracy,amount_mismatch,26136.39,12,P3
+T111374,C3 accuracy,amount_mismatch,13882.52,1,P3
+T111392,C3 accuracy,amount_mismatch,38699.55,22,P3
+T111400,C3 accuracy,amount_mismatch,131468.45,20,P2
+T111458,C3 accuracy,amount_mismatch,151565.32,1,P2
+T111518,C3 accuracy,amount_mismatch,192047.58,25,P2
+T111579,C3 accuracy,amount_mismatch,623267.6,27,P2
+T111624,C3 accuracy,amount_mismatch,161864.75,25,P2
+T111850,C3 accuracy,amount_mismatch,145064.29,12,P2
+T111884,C3 accuracy,amount_mismatch,136453.49,7,P2
+T111895,C3 accuracy,amount_mismatch,21237.43,17,P3
+T111904,C3 accuracy,amount_mismatch,21637.38,29,P3
+T112044,C3 accuracy,amount_mismatch,29849.2,19,P3
+T112145,C3 accuracy,amount_mismatch,7197.85,8,P3
+T112238,C3 accuracy,amount_mismatch,22914.91,12,P3
+T112382,C3 accuracy,amount_mismatch,156320.57,2,P2
+T112689,C3 accuracy,amount_mismatch,34713.6,22,P3
+T112700,C3 accuracy,amount_mismatch,17251.74,20,P3
+T112779,C3 accuracy,amount_mismatch,129067.84,27,P2
+T112796,C3 accuracy,amount_mismatch,58173.58,21,P3
+T112849,C3 accuracy,amount_mismatch,173140.93,18,P2
+T113143,C3 accuracy,amount_mismatch,51740.48,17,P3
+T113330,C3 accuracy,amount_mismatch,899.65,25,P3
+T113359,C3 accuracy,amount_mismatch,18527.63,8,P3
+T113465,C3 accuracy,amount_mismatch,239184.21,7,P2
+T113471,C3 accuracy,amount_mismatch,26098.95,3,P3
+T113592,C3 accuracy,amount_mismatch,225190.34,2,P2
+T113602,C3 accuracy,amount_mismatch,281232.54,17,P2
+T113650,C3 accuracy,amount_mismatch,8605.12,12,P3
+T113676,C3 accuracy,amount_mismatch,382.52,24,P3
+T113694,C3 accuracy,amount_mismatch,150.92,18,P3
+T113809,C3 accuracy,amount_mismatch,335390.6,9,P2
+T113872,C3 accuracy,amount_mismatch,46461.99,14,P3
+T113890,C3 accuracy,amount_mismatch,70847.2,15,P3
+T113936,C3 accuracy,amount_mismatch,224539.79,29,P2
+T114023,C3 accuracy,amount_mismatch,302369.06,1,P2
+T114032,C3 accuracy,amount_mismatch,11097.2,23,P3
+T114214,C3 accuracy,amount_mismatch,45678.99,21,P3
+T114279,C3 accuracy,amount_mismatch,75857.13,3,P3
+T114660,C3 accuracy,amount_mismatch,155106.63,18,P2
+T114726,C3 accuracy,amount_mismatch,176803.71,25,P2
+T114790,C3 accuracy,amount_mismatch,4417.14,22,P3
+T114894,C3 accuracy,amount_mismatch,62294.71,25,P3
+T115011,C3 accuracy,amount_mismatch,229.58,3,P3
+T115046,C3 accuracy,amount_mismatch,1362.23,4,P3
+T115141,C3 accuracy,amount_mismatch,11506.69,0,P3
+T115178,C3 accuracy,amount_mismatch,31772.66,14,P3
+T115250,C3 accuracy,amount_mismatch,15884.96,21,P3
+T115264,C3 accuracy,amount_mismatch,66.61,21,P3
+T115266,C3 accuracy,amount_mismatch,34358.16,5,P3
+T115274,C3 accuracy,amount_mismatch,51012.9,10,P3
+T115300,C3 accuracy,amount_mismatch,45032.76,10,P3
+T115421,C3 accuracy,amount_mismatch,580964.69,18,P2
+T115492,C3 accuracy,amount_mismatch,68874.11,4,P3
+T115583,C3 accuracy,amount_mismatch,75237.11,21,P3
+T115738,C3 accuracy,amount_mismatch,93100.28,1,P3
+T115801,C3 accuracy,amount_mismatch,143185.12,8,P2
+T116054,C3 accuracy,amount_mismatch,52515.81,11,P3
+T116092,C3 accuracy,amount_mismatch,50285.14,14,P3
+T116498,C3 accuracy,amount_mismatch,37008.33,19,P3
+T116658,C3 accuracy,amount_mismatch,122159.27,8,P2
+T116779,C3 accuracy,amount_mismatch,311686.8,24,P2
+T116896,C3 accuracy,amount_mismatch,4227.02,17,P3
+T116924,C3 accuracy,amount_mismatch,49192.15,27,P3
+T117023,C3 accuracy,amount_mismatch,71835.75,2,P3
+T117080,C3 accuracy,amount_mismatch,21908.07,9,P3
+T117082,C3 accuracy,amount_mismatch,628451.78,0,P2
+T117223,C3 accuracy,amount_mismatch,45888.77,29,P3
+T117239,C3 accuracy,amount_mismatch,310560.11,6,P2
+T117255,C3 accuracy,amount_mismatch,545190.41,9,P2
+T117339,C3 accuracy,amount_mismatch,195021.35,3,P2
+T117344,C3 accuracy,amount_mismatch,155526.59,10,P2
+T117349,C3 accuracy,amount_mismatch,24055.8,19,P3
+T117379,C3 accuracy,amount_mismatch,79539.47,19,P3
+T117439,C3 accuracy,amount_mismatch,17585.09,5,P3
+T117468,C3 accuracy,amount_mismatch,10139.99,28,P3
+T117486,C3 accuracy,amount_mismatch,238234.04,5,P2
+T117487,C3 accuracy,amount_mismatch,127330.36,6,P2
+T117573,C3 accuracy,amount_mismatch,48802.56,21,P3
+T117605,C3 accuracy,amount_mismatch,173597.93,3,P2
+T117644,C3 accuracy,amount_mismatch,50392.22,4,P3
+T117658,C3 accuracy,amount_mismatch,119079.3,2,P2
+T117732,C3 accuracy,amount_mismatch,221990.17,11,P2
+T117789,C3 accuracy,amount_mismatch,3610.65,10,P3
+T117850,C3 accuracy,amount_mismatch,36803.21,19,P3
+T117873,C3 accuracy,amount_mismatch,718.67,24,P3
+T117939,C3 accuracy,amount_mismatch,152991.01,26,P2
+T118025,C3 accuracy,amount_mismatch,3291.66,22,P3
+T118220,C3 accuracy,amount_mismatch,74860.78,1,P3
+T118233,C3 accuracy,amount_mismatch,391.56,7,P3
+T118279,C3 accuracy,amount_mismatch,14811.67,14,P3
+T118287,C3 accuracy,amount_mismatch,11560.99,26,P3
+T118318,C3 accuracy,amount_mismatch,48638.08,29,P3
+T118600,C3 accuracy,amount_mismatch,32684.49,5,P3
+T118744,C3 accuracy,amount_mismatch,5370.89,10,P3
+T118748,C3 accuracy,amount_mismatch,39618.23,29,P3
+T118773,C3 accuracy,amount_mismatch,48005.78,19,P3
+T118800,C3 accuracy,amount_mismatch,5230.79,22,P3
+T119022,C3 accuracy,amount_mismatch,538770.78,1,P2
+T119096,C3 accuracy,amount_mismatch,52248.75,27,P3
+T119124,C3 accuracy,amount_mismatch,67494.75,19,P3
+T119205,C3 accuracy,amount_mismatch,56887.0,3,P3
+T119313,C3 accuracy,amount_mismatch,231862.97,28,P2
+T119373,C3 accuracy,amount_mismatch,804.84,12,P3
+T119436,C3 accuracy,amount_mismatch,105550.66,26,P2
+T119548,C3 accuracy,amount_mismatch,21865.19,13,P3
+T119594,C3 accuracy,amount_mismatch,79869.67,18,P3
+T119639,C3 accuracy,amount_mismatch,122506.21,25,P2
+T119689,C3 accuracy,amount_mismatch,86184.57,11,P3
+T119716,C3 accuracy,amount_mismatch,21591.1,0,P3
+T119747,C3 accuracy,amount_mismatch,4565.13,6,P3
+T119794,C3 accuracy,amount_mismatch,182272.91,28,P2
+T119938,C3 accuracy,amount_mismatch,44594.53,3,P3
+T100615,C5 entity,wrong_entity,278846.9,7,P2
+T100748,C5 entity,wrong_entity,974.99,14,P3
+T100897,C5 entity,wrong_entity,10635.55,23,P3
+T101224,C5 entity,wrong_entity,28598.64,24,P3
+T101327,C5 entity,wrong_entity,423.12,6,P3
+T101664,C5 entity,wrong_entity,87910.71,13,P3
+T101699,C5 entity,wrong_entity,235102.47,26,P2
+T102262,C5 entity,wrong_entity,278498.97,8,P2
+T102454,C5 entity,wrong_entity,13131.9,8,P3
+T102623,C5 entity,wrong_entity,52994.83,12,P3
+T103018,C5 entity,wrong_entity,128903.71,28,P2
+T103134,C5 entity,wrong_entity,12364.54,28,P3
+T103274,C5 entity,wrong_entity,36026.51,23,P3
+T103312,C5 entity,wrong_entity,66106.57,16,P3
+T103347,C5 entity,wrong_entity,173260.73,3,P2
+T103547,C5 entity,wrong_entity,103565.48,12,P2
+T103900,C5 entity,wrong_entity,58316.49,28,P3
+T104125,C5 entity,wrong_entity,121420.87,10,P2
+T104333,C5 entity,wrong_entity,14993.28,2,P3
+T104407,C5 entity,wrong_entity,39006.77,21,P3
+T104410,C5 entity,wrong_entity,126154.51,18,P2
+T104475,C5 entity,wrong_entity,145494.52,12,P2
+T104669,C5 entity,wrong_entity,17383.15,1,P3
+T104698,C5 entity,wrong_entity,52761.35,19,P3
+T104919,C5 entity,wrong_entity,142257.16,25,P2
+T105419,C5 entity,wrong_entity,74.82,27,P3
+T105621,C5 entity,wrong_entity,137.89,0,P3
+T105952,C5 entity,wrong_entity,205.15,3,P3
+T105961,C5 entity,wrong_entity,103119.45,13,P2
+T106255,C5 entity,wrong_entity,8006.28,22,P3
+T106480,C5 entity,wrong_entity,9772.13,22,P3
+T106488,C5 entity,wrong_entity,37812.95,26,P3
+T106505,C5 entity,wrong_entity,1494.05,26,P3
+T106511,C5 entity,wrong_entity,156861.7,22,P2
+T106668,C5 entity,wrong_entity,31582.25,16,P3
+T106689,C5 entity,wrong_entity,36540.25,3,P3
+T106712,C5 entity,wrong_entity,14851.62,23,P3
+T107233,C5 entity,wrong_entity,34907.56,24,P3
+T107234,C5 entity,wrong_entity,2408.77,21,P3
+T107395,C5 entity,wrong_entity,37795.03,27,P3
+T107441,C5 entity,wrong_entity,76746.27,20,P3
+T107446,C5 entity,wrong_entity,11837.91,29,P3
+T107533,C5 entity,wrong_entity,153597.7,16,P2
+T107791,C5 entity,wrong_entity,1989644.04,26,P1
+T108016,C5 entity,wrong_entity,11549.4,12,P3
+T108163,C5 entity,wrong_entity,60105.3,4,P3
+T108363,C5 entity,wrong_entity,32480.86,27,P3
+T108492,C5 entity,wrong_entity,363255.23,23,P2
+T108618,C5 entity,wrong_entity,36571.19,9,P3
+T108890,C5 entity,wrong_entity,4473.75,23,P3
+T109004,C5 entity,wrong_entity,134387.09,11,P2
+T109090,C5 entity,wrong_entity,77647.13,11,P3
+T109262,C5 entity,wrong_entity,3472.59,13,P3
+T109343,C5 entity,wrong_entity,31195.34,19,P3
+T109488,C5 entity,wrong_entity,232741.15,1,P2
+T110469,C5 entity,wrong_entity,3845.94,17,P3
+T110557,C5 entity,wrong_entity,34002.64,9,P3
+T110757,C5 entity,wrong_entity,17843.11,11,P3
+T110945,C5 entity,wrong_entity,203266.3,14,P2
+T111016,C5 entity,wrong_entity,73366.3,29,P3
+T111153,C5 entity,wrong_entity,405833.44,9,P2
+T111446,C5 entity,wrong_entity,15000.11,28,P3
+T111483,C5 entity,wrong_entity,9919.45,17,P3
+T111650,C5 entity,wrong_entity,21323.85,20,P3
+T111718,C5 entity,wrong_entity,110650.79,13,P2
+T111875,C5 entity,wrong_entity,509515.4,7,P2
+T111905,C5 entity,wrong_entity,54347.41,18,P3
+T112085,C5 entity,wrong_entity,115406.91,22,P2
+T112162,C5 entity,wrong_entity,14834.2,7,P3
+T112757,C5 entity,wrong_entity,57516.61,6,P3
+T112770,C5 entity,wrong_entity,1873794.35,16,P1
+T112928,C5 entity,wrong_entity,136649.33,21,P2
+T113530,C5 entity,wrong_entity,205167.75,8,P2
+T113756,C5 entity,wrong_entity,15430.01,0,P3
+T113779,C5 entity,wrong_entity,420997.13,20,P2
+T113858,C5 entity,wrong_entity,36277.29,25,P3
+T113897,C5 entity,wrong_entity,16315.2,22,P3
+T113996,C5 entity,wrong_entity,353928.49,29,P2
+T114102,C5 entity,wrong_entity,171408.05,14,P2
+T114207,C5 entity,wrong_entity,99868.57,12,P3
+T114267,C5 entity,wrong_entity,25996.96,29,P3
+T114306,C5 entity,wrong_entity,74588.59,13,P3
+T115176,C5 entity,wrong_entity,405758.38,12,P2
+T115193,C5 entity,wrong_entity,23978.6,11,P3
+T115409,C5 entity,wrong_entity,1582272.87,0,P1
+T116116,C5 entity,wrong_entity,25917.08,8,P3
+T116299,C5 entity,wrong_entity,13206.62,1,P3
+T116385,C5 entity,wrong_entity,651976.34,16,P2
+T116386,C5 entity,wrong_entity,106310.73,14,P2
+T116502,C5 entity,wrong_entity,436450.77,13,P2
+T116613,C5 entity,wrong_entity,310466.48,24,P2
+T116716,C5 entity,wrong_entity,562022.36,19,P2
+T117104,C5 entity,wrong_entity,2309.38,6,P3
+T117109,C5 entity,wrong_entity,200199.79,11,P2
+T117159,C5 entity,wrong_entity,266936.85,7,P2
+T117441,C5 entity,wrong_entity,34525.04,15,P3
+T117517,C5 entity,wrong_entity,28552.94,23,P3
+T117594,C5 entity,wrong_entity,541.41,10,P3
+T117810,C5 entity,wrong_entity,51556.68,26,P3
+T117834,C5 entity,wrong_entity,62278.09,27,P3
+T118001,C5 entity,wrong_entity,344733.33,6,P2
+T118036,C5 entity,wrong_entity,690554.91,17,P2
+T118205,C5 entity,wrong_entity,165312.63,21,P2
+T118449,C5 entity,wrong_entity,36279.79,5,P3
+T118903,C5 entity,wrong_entity,185848.33,1,P2
+T119006,C5 entity,wrong_entity,7253.3,5,P3
+T119586,C5 entity,wrong_entity,16717.84,29,P3
+T119918,C5 entity,wrong_entity,191878.24,3,P2
+T100181,C6 timeliness,stale_booking,20262.27,25,P3
+T100394,C6 timeliness,stale_booking,386740.64,4,P2
+T100414,C6 timeliness,stale_booking,23566.89,17,P3
+T100805,C6 timeliness,stale_booking,31980.55,26,P3
+T100820,C6 timeliness,stale_booking,16.03,24,P3
+T100966,C6 timeliness,stale_booking,19306.1,0,P3
+T101293,C6 timeliness,stale_booking,868123.43,1,P2
+T101326,C6 timeliness,stale_booking,27083.36,29,P3
+T101437,C6 timeliness,stale_booking,84818.76,18,P3
+T101529,C6 timeliness,stale_booking,341.92,1,P3
+T101937,C6 timeliness,stale_booking,16393.19,15,P3
+T102051,C6 timeliness,stale_booking,9601.24,3,P3
+T102142,C6 timeliness,stale_booking,15349.72,25,P3
+T102515,C6 timeliness,stale_booking,176293.55,28,P2
+T102522,C6 timeliness,stale_booking,87550.92,18,P3
+T102637,C6 timeliness,stale_booking,60098.61,8,P3
+T103475,C6 timeliness,stale_booking,8120.85,22,P3
+T103477,C6 timeliness,stale_booking,16452.95,5,P3
+T103504,C6 timeliness,stale_booking,99172.64,7,P3
+T103659,C6 timeliness,stale_booking,15351.84,27,P3
+T103907,C6 timeliness,stale_booking,67085.48,16,P3
+T104298,C6 timeliness,stale_booking,573199.54,14,P2
+T104805,C6 timeliness,stale_booking,4144.14,28,P3
+T104907,C6 timeliness,stale_booking,7580.48,8,P3
+T104936,C6 timeliness,stale_booking,220.85,29,P3
+T104981,C6 timeliness,stale_booking,1008872.77,18,P1
+T104986,C6 timeliness,stale_booking,313980.63,15,P2
+T105304,C6 timeliness,stale_booking,125282.91,1,P2
+T105417,C6 timeliness,stale_booking,24853.48,28,P3
+T105450,C6 timeliness,stale_booking,9050.59,28,P3
+T105671,C6 timeliness,stale_booking,43626.38,2,P3
+T105771,C6 timeliness,stale_booking,22179.67,10,P3
+T105795,C6 timeliness,stale_booking,116352.53,13,P2
+T105805,C6 timeliness,stale_booking,2862.32,26,P3
+T105853,C6 timeliness,stale_booking,206767.23,14,P2
+T105939,C6 timeliness,stale_booking,4044.03,23,P3
+T106140,C6 timeliness,stale_booking,2845972.72,9,P1
+T106360,C6 timeliness,stale_booking,233427.44,5,P2
+T106363,C6 timeliness,stale_booking,27444.47,19,P3
+T107253,C6 timeliness,stale_booking,29636.95,22,P3
+T107275,C6 timeliness,stale_booking,40582.92,11,P3
+T107297,C6 timeliness,stale_booking,184096.78,9,P2
+T107371,C6 timeliness,stale_booking,100260.1,12,P2
+T107378,C6 timeliness,stale_booking,16822.4,10,P3
+T107430,C6 timeliness,stale_booking,326.47,18,P3
+T107618,C6 timeliness,stale_booking,56934.48,11,P3
+T107853,C6 timeliness,stale_booking,101252.26,23,P2
+T107859,C6 timeliness,stale_booking,22074.81,18,P3
+T107944,C6 timeliness,stale_booking,482.0,18,P3
+T108232,C6 timeliness,stale_booking,152461.96,3,P2
+T108473,C6 timeliness,stale_booking,7018.79,29,P3
+T108578,C6 timeliness,stale_booking,124072.98,7,P2
+T108620,C6 timeliness,stale_booking,75189.72,0,P3
+T108970,C6 timeliness,stale_booking,107521.04,10,P2
+T109105,C6 timeliness,stale_booking,12839.07,0,P3
+T109106,C6 timeliness,stale_booking,256586.44,27,P2
+T109208,C6 timeliness,stale_booking,97683.03,20,P3
+T109481,C6 timeliness,stale_booking,51.86,13,P3
+T109635,C6 timeliness,stale_booking,74750.92,0,P3
+T109822,C6 timeliness,stale_booking,4902.77,9,P3
+T109826,C6 timeliness,stale_booking,6098.19,12,P3
+T109939,C6 timeliness,stale_booking,22227.11,7,P3
+T110024,C6 timeliness,stale_booking,60916.14,11,P3
+T110267,C6 timeliness,stale_booking,40024.67,13,P3
+T110293,C6 timeliness,stale_booking,5689.79,19,P3
+T110756,C6 timeliness,stale_booking,6961.87,8,P3
+T110788,C6 timeliness,stale_booking,41212.36,2,P3
+T110990,C6 timeliness,stale_booking,144293.53,29,P2
+T111026,C6 timeliness,stale_booking,77068.13,21,P3
+T111074,C6 timeliness,stale_booking,13952.44,7,P3
+T111114,C6 timeliness,stale_booking,52089.75,9,P3
+T111383,C6 timeliness,stale_booking,70727.72,15,P3
+T111556,C6 timeliness,stale_booking,210539.2,22,P2
+T111844,C6 timeliness,stale_booking,41182.04,2,P3
+T112305,C6 timeliness,stale_booking,82804.84,16,P3
+T112312,C6 timeliness,stale_booking,201665.07,7,P2
+T112389,C6 timeliness,stale_booking,252251.89,28,P2
+T112399,C6 timeliness,stale_booking,7964.18,22,P3
+T112640,C6 timeliness,stale_booking,611244.8,28,P2
+T112675,C6 timeliness,stale_booking,33040.47,28,P3
+T112708,C6 timeliness,stale_booking,18064.34,6,P3
+T112742,C6 timeliness,stale_booking,16074.06,17,P3
+T112776,C6 timeliness,stale_booking,355948.73,1,P2
+T112823,C6 timeliness,stale_booking,53773.05,23,P3
+T112826,C6 timeliness,stale_booking,274923.85,17,P2
+T112880,C6 timeliness,stale_booking,25414.61,11,P3
+T113055,C6 timeliness,stale_booking,45525.84,26,P3
+T113059,C6 timeliness,stale_booking,27771.38,0,P3
+T113249,C6 timeliness,stale_booking,41380.04,10,P3
+T113512,C6 timeliness,stale_booking,95495.48,10,P3
+T113516,C6 timeliness,stale_booking,136263.06,28,P2
+T113933,C6 timeliness,stale_booking,794941.22,27,P2
+T113968,C6 timeliness,stale_booking,16840.03,4,P3
+T114010,C6 timeliness,stale_booking,187170.56,2,P2
+T114058,C6 timeliness,stale_booking,219630.2,16,P2
+T114159,C6 timeliness,stale_booking,47542.12,11,P3
+T114171,C6 timeliness,stale_booking,41545.52,15,P3
+T114319,C6 timeliness,stale_booking,1905658.49,11,P1
+T114403,C6 timeliness,stale_booking,198753.06,3,P2
+T114761,C6 timeliness,stale_booking,62411.02,26,P3
+T114777,C6 timeliness,stale_booking,7035.58,23,P3
+T114798,C6 timeliness,stale_booking,341853.34,10,P2
+T114927,C6 timeliness,stale_booking,79176.31,27,P3
+T115010,C6 timeliness,stale_booking,85476.84,29,P3
+T115020,C6 timeliness,stale_booking,9135.02,10,P3
+T115035,C6 timeliness,stale_booking,44056.77,25,P3
+T115182,C6 timeliness,stale_booking,499992.84,3,P2
+T115559,C6 timeliness,stale_booking,205871.53,9,P2
+T115608,C6 timeliness,stale_booking,35607.69,21,P3
+T115664,C6 timeliness,stale_booking,40373.93,7,P3
+T115680,C6 timeliness,stale_booking,121123.26,20,P2
+T115799,C6 timeliness,stale_booking,25291.45,6,P3
+T115911,C6 timeliness,stale_booking,8538.04,0,P3
+T115932,C6 timeliness,stale_booking,319709.81,22,P2
+T115990,C6 timeliness,stale_booking,148.16,29,P3
+T116039,C6 timeliness,stale_booking,1021.61,13,P3
+T116043,C6 timeliness,stale_booking,2170.37,17,P3
+T116055,C6 timeliness,stale_booking,159033.55,5,P2
+T116082,C6 timeliness,stale_booking,244655.72,3,P2
+T116320,C6 timeliness,stale_booking,1737674.28,5,P1
+T116375,C6 timeliness,stale_booking,1017442.03,26,P1
+T116567,C6 timeliness,stale_booking,13626.21,1,P3
+T116575,C6 timeliness,stale_booking,17668.85,21,P3
+T116603,C6 timeliness,stale_booking,538286.64,26,P2
+T116983,C6 timeliness,stale_booking,153265.08,10,P2
+T117051,C6 timeliness,stale_booking,15355.67,28,P3
+T117270,C6 timeliness,stale_booking,6043.99,21,P3
+T117323,C6 timeliness,stale_booking,93197.65,6,P3
+T117472,C6 timeliness,stale_booking,15052.65,12,P3
+T117591,C6 timeliness,stale_booking,7486.35,17,P3
+T117846,C6 timeliness,stale_booking,2783.79,13,P3
+T117887,C6 timeliness,stale_booking,162503.54,6,P2
+T117985,C6 timeliness,stale_booking,53924.06,5,P3
+T118058,C6 timeliness,stale_booking,278016.28,26,P2
+T118199,C6 timeliness,stale_booking,2314.47,19,P3
+T118257,C6 timeliness,stale_booking,73030.42,1,P3
+T118385,C6 timeliness,stale_booking,16935.15,28,P3
+T118613,C6 timeliness,stale_booking,93672.91,19,P3
+T118910,C6 timeliness,stale_booking,64651.0,5,P3
+T118930,C6 timeliness,stale_booking,39970.89,18,P3
+T118993,C6 timeliness,stale_booking,22618.4,26,P3
+T119011,C6 timeliness,stale_booking,6456.66,9,P3
+T119320,C6 timeliness,stale_booking,78677.71,2,P3
+T119344,C6 timeliness,stale_booking,22766.58,13,P3
+T119530,C6 timeliness,stale_booking,599056.13,10,P2
+T119534,C6 timeliness,stale_booking,881224.22,21,P2
+T119628,C6 timeliness,stale_booking,193.41,3,P3
+T119861,C6 timeliness,stale_booking,66756.23,29,P3
+T119921,C6 timeliness,stale_booking,82164.78,26,P3

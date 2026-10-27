@@ -1,0 +1,7 @@
+control,exceptions,exposure_usd
+C1 completeness,212,30482525.0
+C2 uniqueness,102,15595712.0
+C3 accuracy,244,30480396.0
+C4 FX validation,124,24628449.0
+C5 entity,108,17401342.0
+C6 timeliness,149,24009290.0
